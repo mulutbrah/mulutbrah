@@ -12,6 +12,5 @@ I always eager for seeking new knowledge and challenge.
 
 ### Get in touch
 - 📫 mlutfiibra@outlook.com
-- 📍 Jakarta/Bandung/Ciajur, Indonesia
+- 📍 Jakarta/Bandung/Cianjur, Indonesia
 - 💬 Ask me about anything according to my skills is welcome
-- Twitter: @monkeydelutfi
