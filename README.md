@@ -13,4 +13,4 @@ I always eager for seeking new knowledge and challenge.
 ### Get in touch
 - 📫 mlutfiibra@outlook.com
 - 📍 Jakarta/Bandung/Cianjur, Indonesia
-- 💬 Ask me about anything according to my skills is welcome
+- 💬 Ask me about anything related to my skills are warm welcome
