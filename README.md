@@ -2,7 +2,7 @@
 
 I just want to build something meaningfull yet profitable,
 
-I'm Lutfi, Frontend Engineer at [rata.id](http://rata.id) a health & beauty tech company. With 3+ years of experience on Software Development industry. Beside my role as Frontend Engineer with stacks React, Vue, Nuxt, Next, Angular, TS, I also have experience as; Backend Engineer with stacks Laravel, CodeIgniter, Ruby On Rails and ExperssJs; UI/UX Poster/Advertising Designer with tools Zeplin, Figma, InVision, Adobe Photoshop and Adobe Illustrator. 
+I'm Lutfi, Frontend Engineer at rata.id, a health & beauty technology company. With 3+ years experience in the Software Development industry. Apart from my role as a Frontend Engineer with a stack of React, Vue, Nuxt, Next, Angular, TS, I also have experience as; Backend Engineer with Laravel stacks, CodeIgniter, Ruby On Rails and ExperssJs; UI / UX Poster / Advertising Designer with Zeplin, Figma, InVision, Adobe Photoshop and Adobe Illustrator tools.
 
 I always eager for seeking new knowledge and challenge.
 
