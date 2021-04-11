@@ -7,7 +7,7 @@ I'm Lutfi, Frontend Engineer at [rata.id](http://rata.id) a health & beauty tech
 I always eager for seeking new knowledge and challenge.
 
 ### Currently activities
-- 📊 I’m currently learning Data Science with relative study/knowledge
+- 📊 I’m currently learning Data Science and relative study/knowledge
 - ♟️ I like to play chess online @chess.com/lichess.org with username MonkeyDeLutfi, come play with me if you have some time
 
 ### Get in touch
