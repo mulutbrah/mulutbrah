@@ -1,4 +1,4 @@
-## Muhammad Lutfi - Software Engineer
+## Lutfi - Software Engineer
 
 I just want to build something meaningfull yet profitable,
 
